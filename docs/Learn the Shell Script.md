@@ -1,6 +1,6 @@
-### 비교 옵션
+# 비교 옵션
 
-##### $#
+### $#
 
 `number of params`
 
@@ -12,12 +12,12 @@ ex)
 * param01은 스크립트내에서 `$1`로 불러올 수 있다.
 * 마찬가지 방법으로 program name과 param02는 `$0`, `%2`로 불러올 수 있다.
 
-#### -eq
+### -eq
 
 `equal`
 
 
-#### -z
+### -z
 
 `check the string empty`
 
@@ -27,4 +27,4 @@ if [ -z $line ], then
 fi
 ```
 
-### 문법
+# 문법
