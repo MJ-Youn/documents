@@ -1,2 +1,2 @@
 site_name: MJ
-theme: mkdocs
+theme: "bootstrap"
