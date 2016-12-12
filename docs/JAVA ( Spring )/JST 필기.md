@@ -1,5 +1,3 @@
-
-
 ### \<c:out>
 
 > \<c:out value="출력할 값" default="기본값"/>  

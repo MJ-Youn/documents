@@ -1,13 +1,3 @@
----
-
-layout: post
-title: OAuth 가이드
-description: "OAuth 강의 요약"
-image:
-  feature: abstract-4.jpg
-
----
-
 # 1. HTTP에 대한 사전 지식
 
 ---

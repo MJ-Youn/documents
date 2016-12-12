@@ -1,12 +1,3 @@
----
-layout: post
-title: Spring 필기
-description: "과거에 필기한 Spring"
-image:
-  feature: abstract-10.jpg
----
-
-
 # 01. 스프링이란?
 ---
 

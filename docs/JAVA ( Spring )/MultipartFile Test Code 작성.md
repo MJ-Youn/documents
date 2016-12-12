@@ -1,14 +1,3 @@
----
-
-layout: post
-title: MultipartFile Test Code 작성
-description: "MultipartFile Test Code 작성"
-image:
-  feature: abstract-8.jpg
-
----
-
-
 Test Code를 처음 작성해보면서 새롭게 알게 된 지식이 많이 있다. 그중에 MultipartFile에 관한 Test Code를 작성 할 때는 다른 소스와는 차이점이 있는거 같아 Posting을 남긴다.
 
 
