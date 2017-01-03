@@ -48,7 +48,7 @@
 
 
 ```java
-@String(exclude={"uuid"})
+@ToString(exclude={"uuid"})
 ```
 
 **출력**
