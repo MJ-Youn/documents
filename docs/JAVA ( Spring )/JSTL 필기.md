@@ -8,7 +8,7 @@
 출력할 값이 null일 경우 기본값을 출력한다.
 
 
-### &lt;c:set&gt; - 1
+### &lt;c:set&gt;
 
 ```html
 <c:set var="변수명" value="값" scope="page|request|session|application"/>  
